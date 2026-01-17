@@ -2,6 +2,8 @@
 
 A complete Rust-like programming language compiler implemented for Compiler Principles course, supporting lexical analysis, syntax analysis, semantic checking, intermediate code generation, and MIPS assembly code generation.
 
+![编译器](./assets/screenshots/image.png)
+
 ## 🌟 项目概述
 
 本项目是基于编译原理理论实现的**类 Rust 语言编译器**，涵盖编译器前端到后端的全流程开发。项目分为三个核心阶段，从词法语法分析入手，逐步实现语义检查、中间代码生成，最终输出可在 MARS 模拟器中执行的 MIPS32 汇编代码，完整复现了现代编译器的核心工作流程。
