@@ -2,7 +2,9 @@
 
 A complete Rust-like programming language compiler implemented for Compiler Principles course, supporting lexical analysis, syntax analysis, semantic checking, intermediate code generation, and MIPS assembly code generation.
 
-![编译器](./assets/screenshots/image.png)
+![演示图片1](./assets/screenshots/image.png)
+
+![演示图片2](./assets/screenshots/image1.png)
 
 ## 🌟 项目概述
 
